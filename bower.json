@@ -1,0 +1,25 @@
+{
+  "name": "angular-closure",
+  "version": "1.0",
+  "homepage": "https://github.com/angularifyjs/bower-angular-closure",
+  "authors": [
+    "Henry Tao <hi@henrytao.me>"
+  ],
+  "description": "Bring class into javascript with extend and bind",
+  "main": "ar-closure.js",
+  "keywords": [
+    "angular",
+    "closure",
+    "class",
+    "extend",
+    "bind"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
