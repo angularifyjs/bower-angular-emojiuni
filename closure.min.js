@@ -1,5 +1,5 @@
 /**
- * angular-closure v0.9.3 - 2014-08-31
+ * angular-closure v0.9.4 - 2014-08-31
  * @link https://github.com/angularifyjs/angular-closure
  * @license MIT - Copyright (c) 2014 Angularfiy.org & HenryTao.
  */
