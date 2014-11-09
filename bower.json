@@ -1,18 +1,16 @@
 {
-  "name": "angular-closure",
+  "name": "angular-emojiuni",
   "version": "1.2.26",
-  "homepage": "https://github.com/angularifyjs/bower-angular-closure",
+  "homepage": "https://github.com/angularifyjs/bower-angular-emojiuni",
   "authors": [
     "Henry Tao <hi@henrytao.me>"
   ],
-  "description": "Bring class into javascript with extendable and bindable feature.",
-  "main": "closure.js",
+  "description": "Emoji Unicode for Angular web application.",
+  "main": "emojiuni.js",
   "keywords": [
     "angular",
-    "closure",
-    "class",
-    "extend",
-    "bind"
+    "emoji",
+    "unicode"
   ],
   "license": "MIT",
   "ignore": [
